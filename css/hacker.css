@@ -838,6 +838,7 @@ a.list-group-item-danger.active,a.list-group-item-danger.active:hover,a.list-gro
 .panel-primary{border-color:#0f0}.panel-primary>.panel-heading{color:#222;background-color:#0f0;border-color:#0f0}.panel-primary>.panel-heading+.panel-collapse>.panel-body{border-top-color:#0f0}
 .panel-primary>.panel-heading .badge{color:#0f0;background-color:#222}
 .panel-primary>.panel-footer+.panel-collapse>.panel-body{border-bottom-color:#0f0}
+.panel-primary{word-wrap: break-word}
 .panel-success{border-color:#2f2f2f}.panel-success>.panel-heading{color:#0d0;background-color:#3c3c3c;border-color:#2f2f2f}.panel-success>.panel-heading+.panel-collapse>.panel-body{border-top-color:#2f2f2f}
 .panel-success>.panel-heading .badge{color:#3c3c3c;background-color:#0d0}
 .panel-success>.panel-footer+.panel-collapse>.panel-body{border-bottom-color:#2f2f2f}
